@@ -9,7 +9,7 @@
 	</parent>
 	<artifactId>video-streaming-api</artifactId>
 	<properties>
-		<org.spring>2.2.3.RELEASE</org.spring>
+		<org.spring>2.5.12</org.spring>
 	</properties>
 	<dependencies>
 		<!-- 
